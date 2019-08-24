@@ -1,5 +1,5 @@
 # Media Kit
-This repository contains assets for CedarCoin partnerships and the images above can be edited for respective social channels. Have a support request or seeking something different? [Reach out here](https://github.com/genblue/cedrus-mediakit/issues)
+This repository contains assets for CedarCoin partnerships. Have a support request or seeking something different? [Reach out here](https://github.com/genblue/cedrus-mediakit/issues)
 
 ## Logos & Images
 CedarCoin logos and images in vector can be downloaded from [this location](/images)
