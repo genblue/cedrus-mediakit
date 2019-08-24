@@ -8,6 +8,7 @@ CedarCoin logos and images in vector can be downloaded from [this location](/ima
 Please follow us on our social channels below
 
 | Channel | Handle | Link |
+| --- | --- | --- |
 | Facebook | @_ | https://www.facebook.com/_ |
 | Instagram | @_ | https://www.instagram.com/_ |
 | Twitter | @_ | https://twitter.com/_ |
