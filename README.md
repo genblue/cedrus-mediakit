@@ -34,6 +34,7 @@ CedarCoins are distributed at the rate of 1 CedarCoin per 1 cedar tree planted a
 # Logos & Images
 CedarCoin logos and images in vector can be downloaded from [this location](/images)
 
+![Colors](/images/colors.png)
 ![Logo](/images/logo.png)
 ![Logo](/images/logo-alt.png)
 ![Logo](/images/logoblack.png)
