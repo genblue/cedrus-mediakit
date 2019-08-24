@@ -2,15 +2,7 @@
 This repository contains assets for CedarCoin partnerships and the images above can be edited for respective social channels. Have a support request or seeking something different? [Reach out here](https://github.com/genblue/cedrus-mediakit/issues)
 
 ## Logos & Images
-CedarCoin logos and images in vector can be downloaded from [images in this repo](/images)
-![Logo](/images/logo.png)
-![Logo](/images/logo-alt.png)
-![Logo](/images/logoblack.png)
-![Logo](/images/logoblack-alt.png)
-![Logo](/images/logowhite.png)
-![Logo](/images/logowhite-alt.png)
-![Logo](/images/logogreen.png)
-![Logo](/images/logogreen-alt.png)
+CedarCoin logos and images in vector can be downloaded from [this location](/images)
 
 ## Social Media Channels
 Please follow us on our social channels below
@@ -37,4 +29,17 @@ CedarCoin's mission is to reward and recognize the organizations and individuals
 
 ## Abstract
 CedarCoins are distributed at the rate of 1 CedarCoin per 1 cedar tree planted and cared for to recognize the planting of cedar trees in Lebanon. The value of a CedarCoin today is in the functional rewards and social recognition given to those who are helping to reforest Lebanon.  
+
+# Logos & Images
+CedarCoin logos and images in vector can be downloaded from [this location](/images)
+
+![Logo](/images/logo.png)
+![Logo](/images/logo-alt.png)
+![Logo](/images/logoblack.png)
+![Logo](/images/logoblack-alt.png)
+![Logo](/images/logowhite.png)
+![Logo](/images/logowhite-alt.png)
+![Logo](/images/logogreen.png)
+![Logo](/images/logogreen-alt.png)
+
 
