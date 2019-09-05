@@ -4,8 +4,8 @@ This repository contains assets for CedarCoin partnerships. Have a support reque
 ## Logos & Images
 CedarCoin logos and images in vector can be downloaded from [this location](/images)
 
-## Social Media Channels
-Please follow us on our social channels below
+## Social Media Channels (tbd)
+Please follow us on our social channels below 
 
 | Channel | Handle | Link |
 | --- | --- | --- |
